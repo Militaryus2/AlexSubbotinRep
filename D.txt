@@ -1,2 +1,6 @@
 File D
 Change file D
+
+File D blocked by Belochka 1.0 alfa
+Belocka v2.0
+
